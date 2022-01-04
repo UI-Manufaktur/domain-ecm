@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/model-ecm
+model-ecm.so
+model-ecm.dylib
+model-ecm.dll
+model-ecm.a
+model-ecm.lib
+model-ecm-test-*
+*.exe
+*.o
+*.obj
+*.lst
