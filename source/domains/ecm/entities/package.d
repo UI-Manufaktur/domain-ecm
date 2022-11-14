@@ -1,1 +1,1 @@
-module models.ecm.entities;
+module domains.ecm.entities;
