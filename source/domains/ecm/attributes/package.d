@@ -1,1 +1,1 @@
-module models.ecm.attributes;
+module domains.ecm.attributes;
